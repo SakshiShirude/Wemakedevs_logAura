@@ -8,3 +8,6 @@ def subtract(a, b):
 
 def multiply(a, b):
     return a * b
+
+def exp(a, b):
+    return a ** b
