@@ -7,5 +7,3 @@ def addThree(a, b, c):
 def mulThree(a, b, c):
     return a * b * c
 
-def add(a, b):
-    return a + b
